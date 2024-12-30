@@ -74,3 +74,11 @@
 /datum/loadout_item/toys/foxy_plush
 	name = "Colorful Fox Plush"
 	item_path = /obj/item/toy/plush/foxy_plush
+
+/datum/loadout_item/toys/bottomsynf
+	name = "CentCom Synth Fox Plush"
+	item_path = /obj/item/toy/plush/bottomsynf
+
+/datum/loadout_item/toys/squeaky_toy
+	name = "Squeaky Rat Plushie"
+	item_path = /obj/item/toy/plush/squeaky_toy
